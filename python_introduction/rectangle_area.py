@@ -1,7 +1,5 @@
-length=10
+length = 10
+width = 5
 
-width=5
-
-area=length*width
-
-print(f"The area of the rectangle is: {area}")
+area = length * width
+print (f"The area of the reactangle: {area}")
